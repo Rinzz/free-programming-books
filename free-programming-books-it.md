@@ -3,12 +3,18 @@
 * [0 - Agnostico](#0---agnostico)
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+  * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
 * [C#](#c-sharp)
 * [CSS](#css)
+* [Database](#database)
+  * [NoSQL](#nosql)
+  * [Relazionali](#relazionali)
+  * [SQL](#sql)
+* [Espressioni regolari](#espressioni-regolari)
 * [Git](#git)
 * [HTML](#html)
 * [Java](#java)
@@ -21,24 +27,39 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
+* [UML](#uml)
 * [Visual Basic](#visual-basic)
 
 
 ### 0 - Agnostico
 
+#### Algoritmi e Strutture Dati
+
+* [Algoritmi e Strutture Dati - Astrazione, Progetto e Realizzazione](http://www.astromoodle.altervista.org/download/libro-asd.pdf) - M. Vento e P. Foggia (PDF)
+* [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
+* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
+* [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
+
+
 #### Metodologie di sviluppo del software
 
+* [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 
 
-#### Algoritmi e Strutture Dati
+#### Storia dell'informatica
 
-* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
+* [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
+* [Corso di storia dell'informatica](http://nid.dimi.uniud.it/computing_history/computing_history.html) - C. Bonfanti e P. Giangrandi (PDF)
+* [La storia dell'informatica in Mondo Digitale](http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale) (PDF)
+* [STI: il corso di storia dell'Informatica](https://www.progettohmr.it/Corso/) - G.A. Cignoni (PDF)
+* [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
 
 
 ### Android
 
+* [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
 * [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/)
 
 
@@ -67,6 +88,38 @@
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
 
+### Database
+
+* [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
+* [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
+* [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
+* [Progettare database](https://www.istitutomichelangelo.info/images/sampledata/FilesCaricati/bmorigi/classe%20V/Esercitazioni_schema_concettuale/PROGETTAZIONE%20DATABASE.pdf) (PDF)
+* [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
+
+
+#### NoSQL
+
+* [Guida MongoDB](http://www.html.it/guide/guida-mongodb/?cref=system) (HTML)
+* [Guida OrientDB](http://www.html.it/guide/guida-orientdb/?cref=system) (HTML)
+* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Traduzione di N. Iarocci dall'originale di K. Seguin (PDF)
+* [Redis: la guida](http://www.html.it/guide/redis-la-guida/?cref=system) (HTML)
+
+
+#### Relazionali
+
+* [Guida a MySQL](http://www.crescenziogallo.it/unifg/agraria/ISLA/SEI1/2016-2017/UD5/Guida%20MySql.pdf) - C. Gallo (PDF)
+
+
+#### SQL
+
+* [Guida linguaggio SQL](http://www.html.it/guide/guida-linguaggio-sql/?cref=system) (HTML)
+
+
+### Espressioni regolari
+
+* [Introduzione alle Espressioni regolari](http://www.marianospadaccini.it/repository/espressioni_regolari.pdf) - M. Spadaccini (PDF)
+
+
 ### GIT
 
 * [Comprendere GIT concettualmente](http://www.linuxtrent.it/sites/default/files/Comprendere%20Git%20concettualmente%20-%20Marco%20Ciampa%20-%20r1.pdf) (PDF)
@@ -81,7 +134,9 @@
 
 ### Java
 
+* [Esercizi del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_java9-esercizi.pdf) - C. De Sio Cesari (PDF)
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
+* [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
@@ -114,13 +169,13 @@
 
 ### Perl
 
-* [Corso di Perl](http://www.perl.it/documenti/articoli/mb_corso_perl/mb_corso_perl.pdf) (PDF)
 * [Perl e Internet](http://www.ateneonline.it/hyperbook/p_book/perl2.htm)
 
 
 ### PHP
 
 * [Guida al PHP di LordHack](http://www.lordhack.altervista.org/brdp.pdf) (PDF)
+* [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
 * [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
 
 
@@ -142,6 +197,12 @@
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+
+
+### UML
+
+* [Appunti di UML](http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF)
+* [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
 
 
 ### Visual Basic

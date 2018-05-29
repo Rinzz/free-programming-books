@@ -4,6 +4,7 @@
 * [Clojure](#clojure)
 * [Golang](#golang)
 * [Gulp](#gulp)
+* [Haskell](#haskell)
 * [Javascript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)
@@ -11,7 +12,7 @@
 * [React.js](#reactjs)
 * [Ruby](#ruby)
 * [Webpack](#webpack)
-* [Веб-дизайн](#Веб-дизайн)
+* [Информационные технологии и безопасность](#Информационные-технологии-и-безопасность)
 * [Новости и Разработка ПО](#Новости-и-Разработка-ПО)
 
 
@@ -33,6 +34,11 @@
 ### Gulp
 
 * [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор (Screencast)
+
+
+### Haskell
+
+* [Бананы и Линзы](https://bananasandlenses.net)
 
 
 ### Javascript
@@ -83,9 +89,12 @@
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
 
 
-### Веб-дизайн
+### Информационные технологии и безопасность
 
-* [Подкасты про IT и web разработку](https://uwebdesign.ru) (Podcast)
+* [LinkMeUp](http://linkmeup.ru) (Podcast)
+* [Noise Security Bit](https://noisebit.podster.fm) (Podcast)
+* [uWebDesign](https://uwebdesign.ru) (Podcast)
+* [Квант безопасности](https://soundcloud.com/nikita-remezov) (Podcast)
 
 
 ### Новости и Разработка ПО

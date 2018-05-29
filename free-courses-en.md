@@ -32,7 +32,6 @@
 * [Misc](#misc)
 * [.NET](#net)
 * [OCaml](#ocaml)
-* [Oracle PL/SQL](#oracle-plsql)
 * [PHP](#php)
 * [Python](#python)
 * [QB64](#QB64)
@@ -120,7 +119,10 @@
 
 ### Data Science
 
+* [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
+* [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
 
@@ -144,7 +146,6 @@
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
-* [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
 
@@ -170,7 +171,6 @@
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
-* [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
@@ -255,6 +255,7 @@
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
+* [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) (F. Corno - L. De Russis - A. Monge Roffarello)
 * [Berkeley's CS  61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 * [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/watch?v=feAOZuID1HM)
 * [Berkeley's CS 169: Software Engineering](https://www.youtube.com/watch?v=fXokQpWsszU)
@@ -262,6 +263,7 @@
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals ](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
@@ -271,6 +273,7 @@
 * [MIT's Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [MIT's Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+* [Robotics I](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) - (A. De Luca)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
@@ -285,11 +288,6 @@
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
 * [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
-
-
-### Oracle PL/SQL
-
-* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession)
 
 
 ### PHP
