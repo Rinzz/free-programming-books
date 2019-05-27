@@ -30,12 +30,14 @@
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
+* [Processing](#processing)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Sage](#sage)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -76,7 +78,7 @@
 #### Pédagogie pour enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
-* [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
+* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
 ### Ada
@@ -200,11 +202,6 @@
 * [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
-### OCaml
-
-* [Apprendre à programmer avec OCaml](http://programmer-avec-ocaml.lri.fr)
-
-
 ### Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html) - Sylvain Lhullier
@@ -216,6 +213,11 @@
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
 * [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
+
+
+### Processing
+
+* [Processing](https://fr.flossmanuals.net/processing/) - Œuvre collective (HTML)
 
 
 ### Python
@@ -254,6 +256,11 @@
 ### Scilab
 
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) - Michaël Baudin, Artem Glebov, Jérome Briot
+
+
+### Scratch
+
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
 
 
 ### SPIP
